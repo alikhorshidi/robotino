@@ -1,2 +1,2 @@
 https://pishi.ai/play/
-![Pishi's Image Trainer Sample](./assets/pishi-it.png)
+![Pishi's Image Trainer Sample](./assets/pishi-it.jpg)
