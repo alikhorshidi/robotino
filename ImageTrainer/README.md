@@ -1,2 +1,2 @@
 https://pishi.ai/play/
-(https://myoctocat.com/assets/images/base-octocat.svg)
+![A description of my diagram](./assets/my_diagram.png)(https://myoctocat.com/assets/images/base-octocat.svg)
